@@ -1,6 +1,4 @@
-# Sales-Data-Analysis
 
-```markdown
 # Sales Data Dashboard - README
 
 ## Overview
@@ -25,7 +23,7 @@ This notebook implements sales data processing logic that takes raw retail data 
 ## Output
 
 Utilized Gold layer data for comprehensive view of sales performance with customer demographics, ready for dashboards and analytics
-```
+
 * **Executive KPI Cards**: Displaying high-level metrics - Total Revenue ($157K), Total Orders (295), Average Order Value ($531.88), and Total Customers (294) for quick performance insights
 
 * **Sales Trend Analysis**: Time-series line chart showing revenue trends over time using the `order_date` and `total_sales` fields to identify patterns, seasonality, and growth trends
